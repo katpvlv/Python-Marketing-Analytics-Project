@@ -18,7 +18,7 @@
 Версии программ, использованных в проекте, находятся в файле [pyproject.toml](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/pyproject.toml)
 
 
-## Для того, чтобы вопспроизвести проект:
+## Как воспроизвести проект:
 1. Установить [Anaconda](https://www.anaconda.com/download)
 2. Через интерфейс Anaconda установить в выбранную среду необходимые библиотеки из списка выше, выбрать ту же версию, что указана в файле [pyproject.toml](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/pyproject.toml)
 3. Через интерфейс Anaconda установить Jupier Notebook
