@@ -15,7 +15,7 @@
    * Dotenv
 
 
-Версии программ, использованные в проекте, находятся в файле [pyproject.toml](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/pyproject.toml)
+Версии программ, использованных в проекте, находятся в файле [pyproject.toml](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/pyproject.toml)
 
 
 ## Для того, чтобы вопспроизвести проект:
@@ -26,3 +26,14 @@
 5. Открыть файл [charts_project.ipynb](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/charts_project.ipynb) через Jupier Notebook в Anaconda
 6. Запустить проект. Он сам создаст нужные папки и файлы.
 
+
+Просто посмотреть код можно в файле [charts_project.ipynb](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/charts_project.ipynb)
+
+
+## Задачи:
+1. Запросить данные по API и преобразовать их в датафреймы. Добавить переменные окружения
+2. Сгруппировать данные визитов и данные регистраций по датам и платформам. Для каждого пользователя оставить только последний визит. Исключить визиты, в которых источник 'bot'
+3. Объединить датайфреймы, рассчитать конферсии в итоговом датафрейме. Датафрейм [conversion.json](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/conversion.json)
+4. Объединить датафрейм конверсий с данными о рекламных кампаниях. Датафрейм [ads.json](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/ads.json)
+5. Полученные данные визулизировать с помощью графиков. [Charts](https://github.com/katpvlv/Python-Marketing-Analytics-Project/tree/main/charts)
+6. Подготовить презентацию, сделать выводы и ответить на вопросы, поставленные аналитику. Презентация [presentation.pdf](https://github.com/katpvlv/Python-Marketing-Analytics-Project/blob/main/presentation.pdf)
